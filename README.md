@@ -3,7 +3,7 @@
 requirements
 python3 installation
 
-goto the app.py and chnage the database configurations to your settings.
+goto the app.py and change the database configurations to your settings.
 
 build and run the dockerfile to deploy the application
 
