@@ -1,4 +1,4 @@
-Flast application that returns reverse IP and original IP with appropriate endup.
+# Flask application that returns reverse IP and original IP with appropriate endpoint.
 
 requirements
 python3 installation
