@@ -8,5 +8,7 @@ goto the app.py and change the database configurations to your settings.
 build and run the dockerfile to deploy the application
 
 the url localhost:5600 returns both the original and reversed IP
+
 the url localhost:5600/original-ip returns the original IP
+
 the url localhost:5600/reversed-ip returns the reversed IP
